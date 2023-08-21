@@ -2,7 +2,6 @@
 
 To get started, clone the repository and install the dependencies:
 
-`cd ctruh-assignment`
 `npm install`
 
 ## Running the Development Server
