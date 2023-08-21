@@ -1,3 +1,7 @@
+## Introduction
+
+This is a static website created from a design from a Figma file. The website is built using HTML, CSS, JS, and ReactJS. This project was created as an interview assignment (task 1) for “The Internet Folks”.
+
 ## Getting Started
 
 To get started, clone the repository and install the dependencies:
